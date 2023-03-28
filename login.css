@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&family=Roboto&display=swap');
+* {
+    box-sizing: border-box;
+  }
+
+  :root{
+    --font1: 'Montserrat', sans-serif;
+    --font2: 'Roboto', sans-serif;
+  }
+
+
+
+html,body {
+    height:100%;
+    width:100%;
+    margin:0;
+  }
+  body {
+    display:flex;
+    flex-direction: column;
+    /* background-color: #333; */
+    background-image: url(https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1390013998-e1656427645552.jpg?fit=2308%2C1154&strip=all);
+    background-repeat: none;
+    background-size: cover;
+  }
+  .nav1 {
+    height: 100px;
+    width: 100%;
+    background-color: transparent;
+    position: relative;
+  }
+  .nav1 > .nav1-header1{
+    display: inline;
+  }
+  
+  .nav1 > .nav1-header1 > .nav1-title1 {
+    display: inline-block;
+    font-size: 52px;
+    font-family: var(--font1);
+    color: #fff;
+    padding: 10px 10px 10px 10px;
+  }
+
+  .nav1 > .nav1-header1 > .nav1-title1 > a{
+    text-decoration: none;
+    
+    color: white;
+  }
+  
+  .form {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 60px;
+  }
+  .form-title{
+    width: 25%;
+    text-align: center;
+  }
+  
+  .form-title > p{
+    
+    font-family: var(--font1);
+    font-size: 50px;
+    color: white;
+  }
+
+  .form_login{
+    display: flex;
+    justify-content: center;
+  }
+
+  .form-title p{
+    font-size: 30px;
+  }
+
+  .field{
+    position: relative;
+  }
+  
+  label {
+    position: absolute;
+    pointer-events: none;
+    left: 18px;
+    top: 28px;
+    transition: 0.2s ease all;
+    font-size: 21px;
+    font-family: var(--font1);
+    color: white;
+}
+input:focus ~ label,input:not(:placeholder-shown) ~ label{
+    top:-1px;
+    font: size 18px;
+}
+
+input[type=text],input[type=password] {
+    border: none;
+    border-bottom: 2px solid white;
+    background-color: transparent;
+    font-size: 20px;
+  }
+
+  select{
+    padding: 10px;
+    width: 30%;
+    font-size: 19px;
+    font-family: var(--font1);
+    border: 0;
+    border-left: 2px solid white;
+    background-color: transparent;
+    color: white;
+  }
+
+  .section-inside{
+    max-height: 5px;
+  }
+
+  option{
+    color: black;
+  }
+ 
+  .field1{
+    padding: 25px 15px 10px;
+  }
+  .field2{
+    padding: 25px 15px 10px 15px;
+  }
+  .select{
+    padding: 5px 15px;
+  }
+  .btn{
+    padding: 28px 112px;
+  }
+  .btn> button{
+    padding: 10px 30px;
+  }
+
+  .btn1{
+    color: white;
+    background-color: rgb(247, 46, 87);
+    font-size: 20px;
+    font-family: var(--font2);
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    
+  }
+
+
+

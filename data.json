@@ -1,0 +1,438 @@
+[
+
+    {
+      "username":"rahul@gmail.com",
+      "name": "rahul",
+      "phone":"9856773401",
+      "linkedin":"url1",
+      "password":"pass1",
+      "profession":"Investor",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"pavan@gmail.com",
+      "name":"Pavan kalyan",
+      "phone":"9856773402",
+      "linkedin":"url2",
+      "password":"pass2",
+      "profession": "Investor",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+            
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"ravi@gmail.com",
+      "name" : "Ravi Teja",
+      "phone":"9856773403",
+      "linkedin":"url3",
+      "password":"pass3",
+      "profession" :"Investor",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"anjani@gmail.com",
+      "name": "Anjani",
+      "phone":"9856773404",
+      "linkedin":"url4",
+      "password":"pass4",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+              
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"kalyan@gmail.com",
+      "name":"Kalyan Srinivas",
+      "phone":"9856773405",
+      "linkedin":"url5",
+      "password":"pass5",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+             
+          ]
+   }
+   ,
+  
+   {
+      "username":"madhu@gmail.com",
+      "name":"Madhusudhan",
+      "phone":"9856773406",
+      "linkedin":"url6",
+      "password":"pass6",
+      "profession":"Investor",
+      "blogs":
+          [ 
+             
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"krishna@gmail.com",
+      "name":"Krishna",
+      "phone":"9856773407",
+      "linkedin":"url7",
+      "password":"pass7",
+      "profession":"Investor",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"sruthi@gmail.com",
+      "name":"Sruthi Mane",
+      "phone":"9856773408",
+      "linkedin":"url8",
+      "password":"pass8",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+            
+  
+          ]
+   }
+  ,
+   {
+      "username":"sneha@gmail.com",
+      "name":"Snehalatha",
+      "phone":"9856773409",
+      "linkedin":"url9",
+      "password":"pass9",
+      "profession":"Investor",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"shiva@gmail.com",
+      "name":"Shivakethan",
+      "phone":"9856773410",
+      "linkedin":"url10",
+      "password":"pass10",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+            
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"kiran@gmail.com",
+      "name":"Kiran Kumar",
+      "phone":"9856773411",
+      "linkedin":"url11",
+      "password":"pass11",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"bhusan@gmail.com",
+      "name":"Bhusan Prasad",
+      "phone":"9856773412",
+      "linkedin":"url12",
+      "password":"pass12",
+      "profession":"Investor",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+  ,
+   {
+      "username":"avani@gmail.com",
+      "name":"Avani Kanta",
+      "phone":"9856773413",
+      "linkedin":"url13",
+      "password":"pass13",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+  ,
+   {
+      "username":"vijay@gmail.com",
+      "name":"Vijay",
+      "phone":"9856773414",
+      "linkedin":"url14",
+      "password":"pass14",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"abhimanyu@gmail.com",
+      "name":"Abhimanyu",
+      "phone":"9856773415",
+      "linkedin":"url15",
+      "password":"pass15",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+             
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+   ,
+  
+   {
+      "username":"priya@gmail.com",
+      "name":"Priya Joshi",
+      "phone":"9856773416",
+      "linkedin":"url16",
+      "password":"pass16",
+      "profession":"Entrepreneur",
+      "blogs":
+          [ 
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              },
+              {
+                  "description":"This is a blog",
+                  "img":"img1.webp"
+              }
+  
+          ]
+   }
+  
+  
+  ]

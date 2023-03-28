@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="login.css">
+</head>
+
+<body>
+    <div class="nav1 fixed-top">
+        <div class="nav1-header1">
+            <div class="nav1-title1">
+                <a href="index.html">Innovation</a>
+            </div>
+        </div>
+    </div>
+    <div class="form">
+        <div class="form-title">
+            <p>Login</p>
+        </div>
+        <form id="form_login">
+            <div class="field field1">
+                <input type="text" id="username" onclick="myfunction()"><label>Email</label>
+            </div>
+
+            <div class="field field2">
+                <input type="password" id="pass" onclick="myFunction()"><label for="pass" autocomplete="off">Password</label>
+            </div>
+            <div class="select">
+                <select name="single" id="single" >
+                    <div class="section-inside">
+                    <option value="Investor">Investor</option>
+                    <option value="Entrepreneur">Entrepreneur</option>
+                    </div>
+                </select>
+            </div>
+            <div class="field  btn">
+                <button class="btn1" id="submitbutton" type="submit">Log In</button>
+            </div>
+            <div class="field btn">
+                <button id="profile" class="btn1" type="button" aria-disabled="true">Profile</button>
+            </div>
+        </form>
+    </div>
+
+    <script>
+        const input = document.querySelector("#username");
+        const input1 = document.querySelector("#password");
+        const button = document.querySelector("#myBtn");
+        input.focus();
+        input1.focus();
+        button.addEventListener("click", () => {
+            input.blur();
+            input1.blur();
+        });
+    </script>
+</body>
+
+</html>
